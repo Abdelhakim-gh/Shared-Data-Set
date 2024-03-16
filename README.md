@@ -1,14 +1,3 @@
 # Shared-Data-Set
-Data Set for Project 
 
-
-
-
-
-
-
-
-
-
-
-salam
+Data set for projects
